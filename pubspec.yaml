@@ -1,0 +1,14 @@
+name: pos_saas
+publish_to: none
+
+environment:
+  sdk: ^3.11.4
+
+workspace:
+  - packages/enums
+  - packages/models
+  - packages/validation
+  - packages/api_contracts
+  
+dev_dependencies:
+  melos: ^7.5.1

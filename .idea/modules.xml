@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<module fileurl="file://$PROJECT_DIR$/packages/api_contracts/melos_api_contracts.iml" filepath="$PROJECT_DIR$/packages/api_contracts/melos_api_contracts.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/enums/melos_enums.iml" filepath="$PROJECT_DIR$/packages/enums/melos_enums.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/models/melos_models.iml" filepath="$PROJECT_DIR$/packages/models/melos_models.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/validation/melos_validation.iml" filepath="$PROJECT_DIR$/packages/validation/melos_validation.iml"/>
+<module fileurl="file://$PROJECT_DIR$/melos_pos_saas.iml" filepath="$PROJECT_DIR$/melos_pos_saas.iml"/>
+    </modules>
+  </component>
+</project>
