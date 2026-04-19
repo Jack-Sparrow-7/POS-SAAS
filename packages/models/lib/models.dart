@@ -5,4 +5,4 @@ library;
 
 export 'src/models_base.dart';
 
-// TODO: Export any libraries intended for clients of this package.
+export 'src/admin_entity/admin_entity.dart';
